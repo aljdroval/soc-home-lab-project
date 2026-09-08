@@ -1,7 +1,18 @@
 # SOC Home Lab Project
 
-This repository contains a complete project documenting how a website-hosting exercise evolved into a SOC home lab built with Microsoft Sentinel, Microsoft Defender, custom detections, dashboards, and SOAR automation.
+This repository contains documentation for a phishing-awareness simulation and SOC home lab built using:
 
-👉 **View the full project documentation here:**
+- Microsoft Azure
+- Microsoft Sentinel
+- Microsoft Defender
+- Custom Analytics Rules
+- Workbooks
+- Azure Logic Apps
 
-📁 ./soc-home-lab-github-package
+## 📖 Full Documentation
+
+Open the project folder below:
+
+📁 soc-home-lab-github-package
+
+The complete write-up, screenshots, detections, dashboards, and automation workflows are documented there.
